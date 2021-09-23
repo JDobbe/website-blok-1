@@ -9,7 +9,7 @@ html{
     width: 100%;
 }
 .header h1:hover {
-    background-color: #ddd;
+    background-color: rgba(221, 221, 221, 0.459);
     color: rgb(145, 145, 145);
     z-index: -1;
   }
