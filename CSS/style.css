@@ -75,6 +75,7 @@ body > #bg{
 .flexbox-item-1{
     width: 500px;
     min-height: 100px;
+    padding-left: 10px;
 }
 .flexbox-item-2{
     width: 500px;
